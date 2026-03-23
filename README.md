@@ -17,7 +17,7 @@ This project demonstrates **object-oriented programming**, **user input handling
 
 ## 📂 Project Structure
 
-CalculatorApp.java   # Main entry point
-MathProcessor.java   # Arithmetic operations
-ScheduledExit.java   # Delayed termination logic
-CalStart.java        # Menu, input handling, history
+- CalculatorApp.java   # Main entry point
+- MathProcessor.java   # Arithmetic operations
+- ScheduledExit.java   # Delayed termination logic
+- CalStart.java        # Menu, input handling, history
